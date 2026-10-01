@@ -1,0 +1,73 @@
+ins m
+ins a
+ins k
+ins e
+right
+ins t
+ins e
+bs
+bs
+ctrlk
+ins r
+ins s
+home
+bs
+ins a
+end
+left
+left
+del
+del
+left
+swap
+end
+ctrlu
+ins g
+ins o
+
+ins o
+ins d
+home
+ins b
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+redo
+redo
+redo
+redo
+ins z
+redo
+undo
+undo
+ins q
+ins r
+undo
+undo
+end
+ins x
+undo
+redo
+left
+bs
+undo
+enter
+ins p
+ins l
+ins a
+ins y
+ctrlp
+ins x
+ctrlp
+ctrln
+ins q
+undo
+left
